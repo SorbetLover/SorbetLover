@@ -1,1 +1,1 @@
-i make shit
+i work being a dumbass raluquette
