@@ -1,1 +1,1 @@
-i work being a dumbass raluquette
+i work being a dumbass 
