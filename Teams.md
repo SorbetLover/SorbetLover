@@ -50,6 +50,11 @@
 - [J3seyes](https://twitter.com/B3arzandoyeah)
 - zero_eight_zero
 - [Tomis](https://twitter.com/Tomis_Turbando)
+### - (Charters)
+- me
+- AfroMan
+- [Adrielinz](https://twitter.com/adrielinz)
+- [Tomis](https://twitter.com/Tomis_Turbando)
 
 ### - (Composers)
 - [ARandomMeliante](https://twitter.com/UmMeliante69lol)
