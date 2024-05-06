@@ -22,3 +22,14 @@
 - [ARandomMeliante](https://twitter.com/UmMeliante69lol)
 - [Impollo](https://twitter.com/Apollo_X3)
 
+### - (Artists)
+- [Yaster](https://twitter.com/YasterWolly)
+- [Impollo](https://twitter.com/Apollo_X3)
+- [ARandomMeliante](https://twitter.com/UmMeliante69lol)
+- [Sun](https://twitter.com/Mimi_or_Sunny)
+### - (Composers)
+- [ARandomMeliante](https://twitter.com/UmMeliante69lol)
+- [Tomis](https://twitter.com/Tomis_Turbando)
+### - (VA)
+- [JBendett](https://twitter.com/JBendett)
+
