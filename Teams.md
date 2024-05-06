@@ -74,3 +74,39 @@
 ### - (Coders)
 - me (also git project manager)
 - [BigBoss](https://twitter.com/TheBigBoss050)  |  [Github](https://github.com/TheBigB0ss)
+
+# Mandela VHS
+### - (Director)
+- [Nyle](https://twitter.com/Nyle_Animations)
+### - (Composers)
+- Nebula
+- [MRkarma](https://twitter.com/RkarmaM)
+- [Retrox](https://twitter.com/RetroxDoesStuff)
+- [mandarin](https://twitter.com/TheMandarinOFC)
+- EthanyesYEAH
+- MikeTheComposer (ketchup_mike)
+- Mr.B
+- Immortality
+### - (Coders)
+- me
+- ADE
+- Regz
+- Niki
+### - (Charters)
+- [Nyle](https://twitter.com/Nyle_Animations)
+- [mandarin](https://twitter.com/TheMandarinOFC)
+- [MRkarma](https://twitter.com/RkarmaM)
+- Regz
+- Joli
+- PedroTheAnimator
+### - (Artists)
+- [Thunder](https://twitter.com/Thunderr_YT)
+- Ethan
+- Mr.B
+- Serpio
+### - (VA)
+- [Nyle](https://twitter.com/Nyle_Animations)
+- Mr.B
+- TheKillaJT
+- PedroTheAnimator
+
