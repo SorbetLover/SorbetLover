@@ -72,5 +72,5 @@
 - [Gear](https://twitter.com/arthurgod456)
 - [Drake](https://twitter.com/Twiterfox15)
 ### - (Coders)
-- me
+- me (also git project manager)
 - [BigBoss](https://twitter.com/TheBigBoss050)  |  [Github](https://github.com/TheBigB0ss)
