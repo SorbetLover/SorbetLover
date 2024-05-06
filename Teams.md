@@ -50,6 +50,9 @@
 - [ARandomMeliante](https://twitter.com/UmMeliante69lol)
 - AfroMan
 - [symbolsBRUNA HITOSHI - ELA DELAsymbols](https://twitter.com/BT_Drawings)
+- Miojo
+- [Tomis](https://twitter.com/Tomis_Turbando)
+
 ### - (VA)
 - [Gear](https://twitter.com/arthurgod456)
 ### - (Coders)
