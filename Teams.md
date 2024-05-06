@@ -53,8 +53,14 @@
 - Miojo
 - [Tomis](https://twitter.com/Tomis_Turbando)
 
+### - (Chrom Maker)
+- [symbolsBRUNA HITOSHI - ELA DELAsymbols](https://twitter.com/BT_Drawings)
+- AfroMan
+- [Drake](https://twitter.com/Twiterfox15)
+
 ### - (VA)
 - [Gear](https://twitter.com/arthurgod456)
+- [Drake](https://twitter.com/Twiterfox15)
 ### - (Coders)
 - me
 - [BigBoss](https://twitter.com/TheBigBoss050)  |  [Github](https://github.com/TheBigB0ss)
