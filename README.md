@@ -1,4 +1,5 @@
 i work being a dumbass 
+[-- Team Info --](https://github.com/SorbetLover/SorbetLover/blob/main/Teams.md)
 # Currently contributing / working
 [Nostalgic Funkin](https://github.com/MAZ12211/NostalgicFunkin)
 
