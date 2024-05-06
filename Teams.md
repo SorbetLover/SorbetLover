@@ -36,3 +36,22 @@
 ### - (Coders)
 - me
 - [BigBoss](https://twitter.com/TheBigBoss050)  |  [Github](https://github.com/TheBigB0ss)
+
+# Forest of Fatality 
+### - (Directors)
+- [Horrormente](https://twitter.com/horrormente)
+- [Hami](https://twitter.com/V2Drezim)
+- [Komorioni](https://twitter.com/yumekomo_)
+- [Slendyman](https://twitter.com/TSlendyman)  (2nd time)
+### - (Artists)
+- [Yaster](https://twitter.com/YasterWolly)
+
+### - (Composers)
+- [ARandomMeliante](https://twitter.com/UmMeliante69lol)
+- AfroMan
+- [symbolsBRUNA HITOSHI - ELA DELAsymbols](https://twitter.com/BT_Drawings)
+### - (VA)
+- [Gear](https://twitter.com/arthurgod456)
+### - (Coders)
+- me
+- [BigBoss](https://twitter.com/TheBigBoss050)  |  [Github](https://github.com/TheBigB0ss)
