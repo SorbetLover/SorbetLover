@@ -35,4 +35,4 @@
 
 ### - (Coders)
 - me
-- [BigBoss](https://twitter.com/TheBigBoss050)  |  [GIT](https://github.com/TheBigB0ss)
+- [BigBoss](https://twitter.com/TheBigBoss050)  |  [Github](https://github.com/TheBigB0ss)
