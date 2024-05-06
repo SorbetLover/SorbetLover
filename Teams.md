@@ -2,7 +2,6 @@
 
 # Changed Funkin
 ### - (Director)
-
 - [Yaster](https://twitter.com/YasterWolly)
 
 ### - (Artists)
@@ -17,7 +16,6 @@
 
 # Sonic FNF Fuck
 ### - (Directors)
-
 - [Yaster](https://twitter.com/YasterWolly)
 - [ARandomMeliante](https://twitter.com/UmMeliante69lol)
 - [Impollo](https://twitter.com/Apollo_X3)
@@ -27,9 +25,14 @@
 - [Impollo](https://twitter.com/Apollo_X3)
 - [ARandomMeliante](https://twitter.com/UmMeliante69lol)
 - [Sun](https://twitter.com/Mimi_or_Sunny)
+
 ### - (Composers)
 - [ARandomMeliante](https://twitter.com/UmMeliante69lol)
 - [Tomis](https://twitter.com/Tomis_Turbando)
+
 ### - (VA)
 - [JBendett](https://twitter.com/JBendett)
 
+### - (Coders)
+- me
+- [BigBoss](https://twitter.com/TheBigBoss050)  |  [GIT](https://github.com/TheBigB0ss)
