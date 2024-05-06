@@ -45,6 +45,11 @@
 - [Slendyman](https://twitter.com/TSlendyman)  (2nd time)
 ### - (Artists)
 - [Yaster](https://twitter.com/YasterWolly)
+- [symbolsBRUNA HITOSHI - ELA DELAsymbols](https://twitter.com/BT_Drawings)
+- [Sunku](https://twitter.com/ItzSunku)
+- [J3seyes](https://twitter.com/B3arzandoyeah)
+- zero_eight_zero
+- [Tomis](https://twitter.com/Tomis_Turbando)
 
 ### - (Composers)
 - [ARandomMeliante](https://twitter.com/UmMeliante69lol)
