@@ -1,4 +1,1 @@
-falsecu0
-cu
-cu2
-cu3
+true
