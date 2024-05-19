@@ -12,4 +12,6 @@ Changed Funkin and Sonic fnf fuck (lmao) by [Yaster](https://twitter.com/YasterW
 
 [Mandela VHS](https://twitter.com/Mandela_Vhs) by [Nyle](https://twitter.com/Nyle_Animations)
 
+Funkin at the Starr Park by [bruna hitoshi](https://twitter.com/BT_Drawings)
+
 and 2 small mods i forgor, [Purple Dog](https://twitter.com/cachororoxo) and [Z3ro.py](https://twitter.com/zer0pycom)
