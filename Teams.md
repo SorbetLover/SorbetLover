@@ -90,7 +90,6 @@
 ### - (Coders)
 - me
 - ADE
-- Regz
 - Niki
 ### - (Charters)
 - [Nyle](https://twitter.com/Nyle_Animations)
