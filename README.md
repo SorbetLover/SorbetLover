@@ -1,1 +1,1 @@
-uhh[https://sorbetlover.github.io/sorbetloverschoolthings]
+[school shits](https://sorbetlover.github.io/sorbetloverschoolthings/)
