@@ -1,1 +1,1 @@
-[school shits](https://sorbetlover.github.io/sorbetloverschoolthings/)
+[my shits site](https://sorbetlover.github.io/)
