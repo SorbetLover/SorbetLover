@@ -6,3 +6,4 @@
 ### more reps cuz wont fit down there
 
 [AlloyDenpa](https://github.com/SorbetLover/AlloyDenpa)
+[P Slice](https://github.com/SorbetLover/alloyshit-pslice)
