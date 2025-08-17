@@ -3,6 +3,8 @@
 
 [my shits site](https://sorbetlover.github.io/)
 
+[jancucareca](https://sorbetlover.github.io/jancucareca/)
+
 ### more reps cuz wont fit down there
 
 - [AlloyDenpa](https://github.com/SorbetLover/AlloyDenpa)
