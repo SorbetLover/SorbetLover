@@ -10,3 +10,11 @@
 - [AlloyDenpa](https://github.com/SorbetLover/AlloyDenpa)
 - [P Slice](https://github.com/SorbetLover/alloyshit-pslice)
 - [Argiliteboy codename engine wow](https://github.com/SorbetLover/Argiliteboy-Codename)
+
+
+### git clone cuz i can easely forget it 
+```git clone "https://github.com/sorbetlover/alloyshit```
+```git clone "https://github.com/sorbetlover/fevershit```
+```git clone "https://github.com/sorbetlover/alloydenpa```
+```git clone "https://github.com/sorbetlover/alloyshit-pslice```
+```git clone "https://github.com/sorbetlover/sorbetlover-oneshots-port```
