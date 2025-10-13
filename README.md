@@ -14,17 +14,17 @@
 
 ### git clone cuz i can easely forget it 
 ```
-git clone "https://github.com/sorbetlover/alloyshit
+git clone "https://github.com/sorbetlover/alloyshit"
 ```
 ```
-git clone "https://github.com/sorbetlover/fevershit
+git clone "https://github.com/sorbetlover/fevershit"
 ```
 ```
-git clone "https://github.com/sorbetlover/alloydenpa
+git clone "https://github.com/sorbetlover/alloydenpa"
 ```
 ```
-git clone "https://github.com/sorbetlover/alloyshit-pslice
+git clone "https://github.com/sorbetlover/alloyshit-pslice"
 ```
 ```
-git clone "https://github.com/sorbetlover/sorbetlover-oneshots-port
+git clone "https://github.com/sorbetlover/sorbetlover-oneshots-port"
 ```
