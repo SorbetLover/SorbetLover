@@ -2,6 +2,7 @@
 ```
 adb shell getprop | grep -i boot
 ```
+then send to chatgpt, its easier
 # app deletion 
 ### * locate package
 ```
