@@ -5,28 +5,3 @@
 
 [jancucareca](https://sorbetlover.github.io/jancucareca/)
 
-### more reps cuz wont fit down there
-
-- [AlloyDenpa](https://github.com/SorbetLover/AlloyDenpa)
-- [P Slice](https://github.com/SorbetLover/alloyshit-pslice)
-- [Argiliteboy codename engine wow](https://github.com/SorbetLover/Argiliteboy-Codename)
-<details>
-<summary>git clones</summary>
-  
-```
-git clone "https://github.com/sorbetlover/alloyshit"
-```
-```
-git clone "https://github.com/sorbetlover/fevershit"
-```
-```
-git clone "https://github.com/sorbetlover/alloydenpa"
-```
-```
-git clone "https://github.com/sorbetlover/alloyshit-pslice"
-```
-```
-git clone "https://github.com/sorbetlover/sorbetlover-oneshots-port"
-```
-  
-</details>
